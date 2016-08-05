@@ -1,0 +1,30 @@
+_repo: Wanderings-in-South-America_8159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waterton, Charles
+    birthdate: 1782
+    deathdate: 1865
+    gutenberg_agent_id: '2673'
+    url: http://www.gutenberg.org/2009/agents/2673
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Waterton
+description: ''
+gutenberg_bookshelf: South America
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2351'
+- !lcsh 'Antilles, Lesser -- Description and travel'
+- !lcsh 'Pernambuco (Brazil) -- Description and travel'
+- !lcsh 'Zoology -- Guyana'
+- !lcsh 'Waterton, Charles, 1782-1865 -- Travel'
+- !lcsh 'Guyana -- Description and travel'
+- GITenberg
+title: Wanderings in South America
+url: http://www.gutenberg.org/ebooks/8159
